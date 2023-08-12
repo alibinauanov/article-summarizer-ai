@@ -10,7 +10,7 @@ news and article content. The application provides users with the ability to sum
 various news articles, enhancing the reading experience by condensing lengthy content into concise summaries.
 
 ## Screenshots: 📷
-<img src="https://github.com/alibinauanov/article-summarizer-ai/blob/main/sumz.gif" width="450" height="400">
+<img src="https://github.com/alibinauanov/article-summarizer-ai/blob/main/sumz.gif" width="400" height="400">
 
 ## Technologies Used: ☕️ 🐍 ⚛️
 * React.js
