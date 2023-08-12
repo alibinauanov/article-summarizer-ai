@@ -14,9 +14,8 @@ various news articles, enhancing the reading experience by condensing lengthy co
 
 ## Technologies Used: ☕️ 🐍 ⚛️
 * React.js
+* Vite
 * JavaScript
-* Redux
-* SCSS
 * API
 
 ## Setup / Installation: 💻
