@@ -1,7 +1,7 @@
 # Article Summarizer
 
 ## Live Link / Demo Link: 🔗
-[Deployed app](https://article-summarizer-ai.vercel.app/)
+[Deployed app]([https://article-summarizer-ai.vercel.app/](https://article-summarizer-agb48apm9-alibinauanov.vercel.app/))
 
 ## About the Project: 📚
 This project aims to develop an Article Summarizer application leveraging ReactJS and 
